@@ -1,0 +1,9 @@
+Building Bitcoinultra
+
+See doc/readme-qt.rst for instructions on building Bitcoinultra QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bitcoinultra.
+
+See doc/build-*.txt for instructions on building bitcoinultrad,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bitcoinultra.
